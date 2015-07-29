@@ -1,0 +1,35 @@
+{
+  "name": "flux-react-app",
+  "version": "1.0.1",
+  "description": "Sample flux react app",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rx007/flux-react-app.git"
+  },
+  "keywords": [
+    "flux",
+    "react"
+  ],
+  "author": "rx007",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rx007/flux-react-app/issues"
+  },
+  "homepage": "https://github.com/rx007/flux-react-app#readme",
+  "dependencies": {
+    "gulp": "*",
+    "gulp-browserify": "*",
+    "gulp-concat": "*",
+    "browserify": "*",
+    "react": "*",
+    "reactify": "*",
+    "es6-promise": "*",
+    "flux": "*",
+    "object-assign": "*",
+    "vinyl-source-stream": "*",
+    "react-router-component": "*",
+    "react-async": "*",
+    "jquery": "*"
+  }
+}

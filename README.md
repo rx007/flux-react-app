@@ -4,7 +4,6 @@ Sample flux react app
 ## Installation
 
 npm install
-gulp
 
 ## Contributors
 
